@@ -3,13 +3,13 @@
 </script>
 
 <script lang="ts">
-	// put the code here
+	import Map from '../lib/mapping/map/Map.svelte';
 </script>
 
 <svelte:head>
 	<title>Home</title>
 </svelte:head>
 
-<section class="w-full h-full flex">
-	<p class="flex m-auto">My Map will go here</p>
+<section class="w-full h-full">
+	<Map/>
 </section>

@@ -3,7 +3,7 @@
 	import logo from './svelte-logo.svg';
 </script>
 
-<header class="flex justify-between w-full">
+<header class="fixed top-0 flex justify-between w-full z-10">
 	<div>
 		<img src={logo} alt="SvelteKit"/>
 	</div>
