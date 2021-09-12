@@ -1,13 +1,13 @@
 <script lang="ts">
     import 'mapbox-gl/dist/mapbox-gl.css';
-	import mapboxgl from 'mapbox-gl'; // or "const mapboxgl = require('mapbox-gl');"
-import { onMount } from 'svelte';
- 
-    mapboxgl.accessToken = 'pk.eyJ1IjoiY2hyaXNldm9sdmVsYWIiLCJhIjoiY2tzZzZ1ODJkMDByMjJvcGdxNWR3NzI2cyJ9.c4tHHpwpkXydQnnv9uplzA';
+    import maplibregl from 'maplibre-gl';
+    import { onMount } from 'svelte';
+
     onMount(() => {
-        const map = new mapboxgl.Map({
-            container: 'map', // container ID
-            style: 'mapbox://styles/mapbox/streets-v11', // style URL
+        var map = new maplibregl.Map({
+            accessToken: "",
+            container: 'map',
+            style: 'https://api.maptiler.com/maps/streets/style.json?key=get_your_own_OpIi9ZULNHzrESv6T2vL', // stylesheet location
             center: [-74.5, 40], // starting position [lng, lat]
             zoom: 9 // starting zoom
         });
