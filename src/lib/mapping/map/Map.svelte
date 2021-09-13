@@ -65,7 +65,7 @@
                 {position: [-122.402, 37.79], color: [255, 0, 0], radius: 1000}
                 ],
                 getPosition: (d: any) => d.position,
-                getColor: (d: any) => d.color,
+                getFillColor: (d: any) => d.color,
                 getRadius: (d: any) => d.radius,
                 opacity: 0.3
             }), firstLabelLayerId);
