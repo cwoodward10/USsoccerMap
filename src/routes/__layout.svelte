@@ -1,6 +1,6 @@
 <script lang="ts">
 	import '../assets/tailwind.css';
-	import Header from '../lib/header/Header.svelte';
+	import Header from '$lib/header/Header.svelte';
 </script>
 
 <Header/>

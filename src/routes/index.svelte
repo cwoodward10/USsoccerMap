@@ -3,7 +3,7 @@
 </script>
 
 <script lang="ts">
-	import Map from '../lib/mapping/map/Map.svelte';
+	import Map from '$lib/mapping/map/Map.svelte';
 </script>
 
 <svelte:head>

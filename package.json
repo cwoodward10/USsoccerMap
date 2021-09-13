@@ -11,6 +11,7 @@
     "format": "prettier --ignore-path .gitignore --write --plugin-search-dir=. ."
   },
   "devDependencies": {
+    "@danmarshall/deckgl-typings": "^4.9.5",
     "@sveltejs/kit": "next",
     "@types/cookie": "^0.4.0",
     "@types/mapbox-gl": "^2.4.1",
@@ -32,10 +33,13 @@
   },
   "type": "module",
   "dependencies": {
+    "@deck.gl/core": "^8.5.7",
+    "@deck.gl/layers": "^8.5.7",
+    "@deck.gl/mapbox": "^8.5.7",
     "@fontsource/fira-mono": "^4.2.2",
     "@lukeed/uuid": "^2.0.0",
     "@tailwindcss/aspect-ratio": "^0.2.1",
     "cookie": "^0.4.1",
-    "mapbox-gl": "^2.4.1"
+    "maplibre-gl": "^1.15.2"
   }
 }
