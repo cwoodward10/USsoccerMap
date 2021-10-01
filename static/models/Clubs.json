@@ -1,0 +1,242 @@
+[
+    {
+        "name": "New England Revolution",
+        "league": "Major League Soccer",
+        "tier": 1,
+        "city": "Foxborough, Massachusetts, United States",
+        "stadium": "Gillette Stadium",
+        "lnglat": [ 71.264, 42.091]
+    },
+    {
+        "name": "Manchester City",
+        "league": "English Premier League",
+        "tier": 1,
+        "city": "Manchester, England",
+        "stadium": "City of Machester Stadium",
+        "lnglat": [ -2.200278, 53.483056]
+    },
+    {
+        "name": "Nottingham Forest",
+        "league": "English Football League Championship",
+        "tier": 2,
+        "city": "West Bridgford, England",
+        "stadium": "City Ground",
+        "lnglat": [-1.132778, 52.94]
+    },
+    {
+        "name": "New York City F.C",
+        "league": "Major League Soccer",
+        "tier": 1,
+        "city": "New York, New York, United States",
+        "stadium": "Yankee Stadium",
+        "lnglat": [ -73.926389, 40.829167]
+    },
+    {
+        "name": "Atlanta United",
+        "league": "Major League Soccer",
+        "tier": 1,
+        "city": "Atlanta, Georgia, United States", 
+        "stadium": "Mercedes-Benz Stadium",
+        "lnglat": [ -84.4, 33.755556]
+    },
+    {
+        "name": "Vfl Wolfsburg",
+        "league": "German Bundesliga",
+        "tier": 1,
+        "city": "Wolfsburg, Germany",
+        "stadium": "Volkswagen Arena",
+        "lnglat": [10.803889, 52.432639]
+    },
+    {
+        "name": "Barcelona",
+        "league": "Spanish La Liga",
+        "tier": 1,
+        "city": "Barcelona, Spain",
+        "stadium": "Camp Nou",
+        "lnglat": [2.1225, 41.380831]
+    },
+    {
+        "name": "KRC Genk", 
+        "league": "Belgian First Division A",
+        "tier": 1,
+        "city": "Genk, Belgium", 
+        "stadium": "Luminus Arena",
+        "lnglat": [5.533333, 51.005]
+    }, 
+    {
+        "name": "Fulham",
+        "league":"English Football League Championship",
+        "tier": 2,
+        "city": "London, England", 
+        "stadium": "Craven Cottage",
+        "lnglat": [-0.221667, 51.475]
+    },
+    {
+        "name": "Galatasaray",
+        "league": "Turkish Super Lig",
+        "tier": 1,
+        "city": "Istanbul, Turkey",
+        "stadium": "Türk Telekom Stadium",
+        "lnglat": [ 28.9900556, 41.102778]
+    },
+    {
+        "name": "Nashville SC",
+        "league": "Major League Soccer",
+        "tier": 1,
+        "city": "Nashville, Tennessee, United States", 
+        "stadium": "Nissan Stadium",
+        "lnglat": [ -86.771389, 36.166389]
+    }, 
+    {
+        "name": "Colorado Rapids",
+        "league": "Major League Soccer",
+        "tier": 1,
+        "city": "Commerce City, Colorado, United States",
+        "stadium": "Dick's Sporting Goods Park",
+        "lnglat": [ -104.891944, 39.805556]
+    },
+    {
+        "name": "RB Leipzig",
+        "league": "German Bundesliga",
+        "tier": 1,
+        "city": "Leipzig, Germany",
+        "stadium": "Red Bull Arena",
+        "lnglat": [ 12.348278, 51.34575]
+    },
+    {
+        "name": "LA Galaxy",
+        "league": "Major League Soccer",
+        "tier": 1,
+        "city": "Carson, California, United States",
+        "stadium": "Dignity Health Sports Park",
+        "lnglat": [ -118.261, 33.864]
+    },
+    {
+        "name": "Juventus",
+        "league": "Italian Serie A",
+        "tier": 1,
+        "city": "Turin, Italy",
+        "stadium": "Allianz Stadium",
+        "lnglat": [ 7.641111, 45.109444]
+    },
+    {
+        "name": "Seattle Sounders",
+        "league": "Major League Soccer",
+        "tier": 1,
+        "city": "Seattle, Washington, United States",
+        "stadium": "Lumen Field",
+        "lnglat": [-122.3316, 47.5952]
+    },
+    {
+        "name": "San Jose Earthquakes",
+        "league": "Major League Soccer",
+        "tier": 1,
+        "city": "San Jose, California, United States",
+        "stadium": "PayPal Park",
+        "lnglat": [ -121.925, 37.351389]
+    },
+    {
+        "name": "Red Bull Salzburg",
+        "league": "Austrian Bundesliga",
+        "tier": 1,
+        "city": "Wals-Siezenheim, Austria",
+        "stadium": "Red Bull Arena",
+        "lnglat": [ 12.998228, 47.816264]
+    },
+    {
+        "name": "Olympique Marseille",
+        "league": "French Ligue 1",
+        "tier": 1,
+        "city": "Marseille, France",
+        "stadium": "Stade Velodrome",
+        "lnglat": [ 5.3957, 43.266]
+    },
+    {
+        "name": "BSC Young Boys",
+        "league": "Swiss Super League",
+        "tier": 1, 
+        "city": "Bern, Switzerland",
+        "stadium": "Stadion Wankdorf",
+        "lnglat": [ 7.464833, 46.963167]
+    },
+    {
+        "name": "FC Dallas",
+        "league": "Major League Soccer",
+        "tier": 1,
+        "city": "Frisco, Texas, United States",
+        "stadium": "Toyota Stadium",
+        "lnglat": [ -96.835278, 33.154444]
+    },
+    {
+        "name": "Chelsea",
+        "league": "English Premier League",
+        "tier": 1,
+        "city": "London, England",
+        "stadium": "Stamford Bridge",
+        "lnglat": [ -0.191111, 51.481667]
+    },
+    {
+        "name": "Borussia Dortmund",
+        "league": "German Bundesliga",
+        "tier": 1,
+        "city": "Dortmund, Germany",
+        "stadium": "Westfalenstadion",
+        "lnglat": [ 7.451842, 51.492569]
+    },
+    {
+        "name": "Norwich City",
+        "league": "English Premier League",
+        "tier": 1,
+        "city": "Norwich, England",
+        "stadium": "Carrow Road",
+        "lnglat": [ 1.308653, 52.622128]
+    },
+    {
+        "name": "OSC Lille",
+        "league": "French Ligue 1",
+        "tier": 1,
+        "city": "Villeneuve-d'Ascq, France",
+        "stadium": "Stade Pierre-Mauroy",
+        "lnglat": [ 3.1304, 50.6119]
+    },
+    {
+        "name": "CD Tenerife",
+        "league": "Spanish Segunda Division",
+        "tier": 2,
+        "city": "Santa Cruz de Tenerife, Canary Islands, Spain",
+        "stadium": "Estadio Heliodoro Rodriquez Lopez",
+        "lnglat": [-16.260556, 28.463056]
+    },
+    {
+        "name": "Venezia",
+        "league": "Italian Serie A",
+        "tier": 1,
+        "city": "Venice, Italy",
+        "stadium": "Stadio Pier Luigi Penzo",
+        "lnglat": [12.363731, 45.427761]
+    },
+    {
+        "name": "Heracles Almelo",
+        "league": "Dutch Eredivisie",
+        "tier": 1,
+        "city": "Almelo, Netherlands",
+        "stadium": "Erve Asito",
+        "lnglat": [6.650556, 52.33875]
+    },
+    {
+        "name": "Valencia",
+        "league": "Spanish La Liga",
+        "tier": 1,
+        "city": "Valencia, Spain",
+        "stadium": "Mestalla Stadium",
+        "lnglat": [-0.353361, 39.474656]
+    },
+    {
+        "name": "RCD Mallorca",
+        "league": "Spanish La Liga",
+        "tier": 1,
+        "city": "Palma de Mallorca, Balearic Islands, Spain",
+        "stadium": "Visit Mallorca Stadium",
+        "lnglat": [2.63, 39.59]
+    }
+]

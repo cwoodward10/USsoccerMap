@@ -14,6 +14,7 @@
     "@danmarshall/deckgl-typings": "^4.9.5",
     "@sveltejs/kit": "next",
     "@types/cookie": "^0.4.0",
+    "@types/geojson": "^7946.0.8",
     "@types/mapbox-gl": "^2.4.1",
     "@typescript-eslint/eslint-plugin": "^4.19.0",
     "@typescript-eslint/parser": "^4.19.0",
@@ -40,6 +41,7 @@
     "@lukeed/uuid": "^2.0.0",
     "@tailwindcss/aspect-ratio": "^0.2.1",
     "cookie": "^0.4.1",
+    "geojson": "^0.5.0",
     "maplibre-gl": "^1.15.2"
   }
 }

@@ -1,0 +1,103 @@
+[
+    {
+        "name": "September FIFA Window",
+        "startDate": "2021-08-29",
+        "endDate": "2021-09-09",
+        "locations": [
+            { "city": "Nashville", "lnglat": [-86.771389, 36.166389]}
+        ],
+        "event": "2022 World Cup Qualifying",
+        "fixtureDates": [
+            "2021-09-02",
+            "2021-09-05",
+            "2021-09-08"
+        ],
+        "manager": "Gregg Berhalter",
+        "roster": [
+            { "name": "Matt Turner", "club": "New England Revolution", "caps": 7},
+            { "name": "Zack Steffen", "club": "Manchester City", "caps": 23},
+            { "name": "Ethan Horvath", "club": "Nottingham Forest", "caps": 7},
+            { "name": "Sean Johnson", "club": "New York City FC", "caps": 9},
+            { "name": "George Bello", "club": "Atlanta United", "caps": 3},
+            { "name": "John Brooks", "club": "VfL Wolfsburg", "caps": 43},
+            { "name": "Sergino Dest", "club": "Barcelona", "caps": 11},
+            { "name": "Mark McKenzie", "club": "KRC Genk", "caps": 6},
+            { "name": "Tim Ream", "club": "Fulham", "caps": 45},
+            { "name": "Antonee Robinson", "club": "Fulham", "caps": 12},
+            { "name": "Miles Robinson", "club": "Atlanta United", "caps": 9},
+            { "name": "James Sands", "club": "New York City FC", "caps": 6},
+            { "name": "DeAndre Yedlin", "club": "Galatasaray", "caps": 64},
+            { "name": "Walker Zimmerman", "club": "Nashville SC", "caps": 11},
+            { "name": "Kellyn Acosta", "club": "Colorado Rapids", "caps": 37},
+            { "name": "Tyler Adams", "club": "RB Leipzig", "caps": 14},
+            { "name": "Sebastian Lletget", "club": "LA Galaxy", "caps": 29},
+            { "name": "Weston McKennie", "club": "Juventus", "caps": 24},
+            { "name": "Cristian Roldan", "club": "Seattle Sounders", "caps": 25},
+            { "name": "Jackson Yueill", "club": "San Jose Earthquakes", "caps": 15},
+            { "name": "Brenden Aaronson", "club": "Red Bull Salzburg", "caps": 7},
+            { "name": "Konrad de la Fuente", "club": "Olympique Marseille", "caps": 1},
+            { "name": "Jordan Pefok", "club": "BSC Young Boys", "caps": 6},
+            { "name": "Ricardo Pepi", "club": "FC Dallas", "caps": 0},
+            { "name": "Christian Pulisic", "club": "Chelsea", "caps": 38},
+            { "name": "Gio Reyna", "club": "Borussia Dortmund", "caps": 8},
+            { "name": "Josh Sarget", "club": "Norwich City", "caps": 16},
+            { "name": "Tim Weah", "club": "OSC Lille", "caps": 11}
+        ],
+        "notes": [
+            "Tim Weah was called up but was injured in club training prior to arriving at camp",
+            "Jackson Yueill was added to the roster before the 3rd fixture.",
+            "Weston Mckennie was sent home before the 2nd fixture for violating Covid protocols",
+            "Sean Johnson was added to the roster before the 2nd fixture.",
+            "Zack Steffen was called in but did not dress for any fixtures due to injury and then contracting Covid",
+            "Sergino Dest was sent home before the 3rd fixture after coming off injured in the second fixture with a sprained ankle."
+        ]
+    },
+    {
+        "name": "October FIFA Window",
+        "startDate": "2021-10-03",
+        "endDate": "2021-10-14",
+        "locations": [
+            { "city": "Austin", "lnglat": [-97.719837, 30.388206]},
+            { "city": "Columbus", "lnglat": [-83.017089, 39.968461]}
+        ],
+        "event": "2022 World Cup Qualifying",
+        "fixtureDates": [
+            "2021-10-07",
+            "2021-10-10",
+            "2021-10-13"
+        ],
+        "manager": "Gregg Berhalter",
+        "roster": [
+            { "name": "Matt Turner", "club": "New England Revolution", "caps": 10},
+            { "name": "Zack Steffen", "club": "Manchester City", "caps": 23},
+            { "name": "Sean Johnson", "club": "New York City FC", "caps": 9},
+            { "name": "George Bello", "club": "Atlanta United", "caps": 4},
+            { "name": "John Brooks", "club": "VfL Wolfsburg", "caps": 45},
+            { "name": "Sergino Dest", "club": "Barcelona", "caps": 13},
+            { "name": "Mark McKenzie", "club": "KRC Genk", "caps": 7},
+            { "name": "Shaq Moore", "club": "CD Tenerife", "caps": 11},
+            { "name": "Tim Ream", "club": "Fulham", "caps": 46},
+            { "name": "Antonee Robinson", "club": "Fulham", "caps": 15},
+            { "name": "Miles Robinson", "club": "Atlanta United", "caps": 12},
+            { "name": "DeAndre Yedlin", "club": "Galatasaray", "caps": 64},
+            { "name": "Kellyn Acosta", "club": "Colorado Rapids", "caps": 40},
+            { "name": "Tyler Adams", "club": "RB Leipzig", "caps": 17},
+            { "name": "Gianluca Busio", "club": "Venezia", "caps": 6},
+            { "name": "Luca de la Torre", "club": "Heracles Almelo", "caps": 3},
+            { "name": "Sebastian Lletget", "club": "LA Galaxy", "caps": 32},
+            { "name": "Weston McKennie", "club": "Juventus", "caps": 25},
+            { "name": "Unus Musah", "club": "Valencia", "caps": 6},
+            { "name": "Cristian Roldan", "club": "Seattle Sounders", "caps": 28},
+            { "name": "Brenden Aaronson", "club": "Red Bull Salzburg", "caps": 10},
+            { "name": "Ricardo Pepi", "club": "FC Dallas", "caps": 1},
+            { "name": "Tim Weah", "club": "OSC Lille", "caps": 11},
+            { "name": "Paul Arriola", "club": "D.C United", "caps": 8},
+            { "name": "Matthew Hoppe", "club": "RCD Mallorca", "caps": 5},
+            { "name": "Gyasi Zardes", "club": "Columbus Crew", "caps": 62}
+        ],
+        "notes": [
+            "Gio Reyna and Christian Pulisic were left off due to injuries sustained during the last camp (September window).",
+            "England based players are subject to quarantine upon return if they play in 'Red Listed' countries due to England's COVID laws."
+        ]
+    }
+]

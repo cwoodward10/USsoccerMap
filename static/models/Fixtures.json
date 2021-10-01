@@ -1,0 +1,200 @@
+[
+    {
+        "kickoffTime": "2021-09-02 10:00 ET",
+        "city": "San Salvadore, El Salvadore",
+        "stadium": "Estadio Cuscatlan",
+        "locationLngLat": [89.2222, 13.6810],
+        "opponent": "El Salvadore",
+        "homeAway": "Away",
+        "notes": [
+            "Cristian Roldan wore the 10 in this game with Christian Pulisic remaining in Nashville to regain fitness after testing positive for COVID with Chelsea in the weeks prior to camp.",
+            "The US only dressed 2 goalkeepers with Zack Steffen missing the game due to back spasms."
+        ],
+        "lineup": [
+            {"number": 1, "name": "Matt Turner", "captain": "false", "substituted": []},
+            {"number": 22, "name": "DeAndre Yedlin", "captain": "false", "substituted": [
+                {"number": 17, "name": "Sebastian Lletget", "minute": 79}
+            ]},
+            {"number": 12, "name": "Miles Robinson", "captain": "false", "substituted": []},
+            {"number": 13, "name": "Tim Ream", "captain": "false", "substituted": []},
+            {"number": 2, "name": "Sergino Dest", "captain": "false", "substituted": [
+                {"number": 5, "name": "Antonee Robinson", "captain": "false", "minute": 64}
+            ]},
+            {"number": 4, "name": "Tyler Adams", "captain": "true", "substituted": []},
+            {"number": 8, "name": "Weston McKennie", "captain": "false", "substituted": []},
+            {"number": 11, "name": "Brendon Aaronson", "captain": "false", "substituted": [
+                {"number": 10, "name": "Cristian Roldan", "captain": "false", "minute": 78}
+            ]},
+            {"number": 7, "name": "Gio Reyna", "captain": "false", "substituted": []},
+            {"number": 9, "name": "Josh Sargent", "captain": "false", "substituted": [
+                {"number": 19, "name": "Jordan Pefok", "captain": "false","minute": 64}
+            ]},
+            {"number": 20, "name": "Konrad del la Fuente", "captain": "false", "substituted": [
+                {"number": 23, "name": "Kellyn Acosta", "captain": "false", "minute": 64}
+            ]}
+        ],
+        "bench": [
+            {"number": 17, "name": "Sebastian Lletget"},
+            {"number": 5, "name": "Antonee Robinson"},
+            {"number": 10, "name": "Cristan Roldan"},
+            {"number": 19, "name": "Jordan Pefok"},
+            {"number": 23, "name": "Kellyn Acosta"},
+            {"number": 19, "name": "Jordan Pefok"},
+            {"number": 16, "name": "Ethan Horvath"},
+            {"number": 3, "name": "Walker Zimmerman"},
+            {"number": 6, "name": "John Brooks"},
+            {"number": 14, "name": "Ricardo Pepi"},
+            {"number": 15, "name": "Mark McKenzie"},
+            {"number": 18, "name": "James Sands"},
+            {"number": 21, "name": "George Bello"}
+        ],
+        "goals": []
+    },
+    {
+        "kickoffTime": "2021-09-05 08:00",
+        "city": "Nashville, Tennessee, United States",
+        "stadium": "Nisson Stadium",
+        "locationLngLat": [-86.771389, 36.166389],
+        "opponent": "Canada",
+        "homeAway": "Home",
+        "notes": [
+            "Gio Reyna was sent home prior to this game with a hamstring injury.",
+            "Zack Steffen contracted COVID and was replaced in camp by Sean Johnson prior to this game.",
+            "Sergino Dest came out injured in the 44th minute.",
+            "Weston Mckennie was sent home from cap prior to this game for violaton of COVID protocols.",
+            "Cristian Roldan wore the 10 in this game with Christian Pulisic still regaining fitness after testing positive for COVID with Chelsea in the weeks prior to camp.",
+            "With Pulisic dressed for this game, he took over the 10 and Roldan took number 7."
+        ],
+        "lineup": [
+            {"number": 1, "name": "Matt Turner", "captain": "false", "substituted": []},
+            {"number": 2, "name": "Sergino Dest", "captain": "false", "substituted": [
+                {"number": 22, "name": "DeAndre Yedlin", "minute": 44}
+            ]},
+            {"number": 12, "name": "Miles Robinson", "captain": "false", "substituted": []},
+            {"number": 6, "name": "John Brooks", "captain": "false", "substituted": []},
+            {"number": 5, "name": "Antonee Robinson", "captain": "false", "substituted": []},
+            {"number": 4, "name": "Tyler Adams", "captain": "false", "substituted": []},
+            {"number": 17, "name": "Sebastian Lletget", "captain": "false", "substituted": [
+                {"number": 7, "name": "Cristian Roldan", "captain": "false", "minute": 83}
+            ]},
+            {"number": 23, "name": "Kellyn Acosta", "captain": "false", "substituted": []},
+            {"number": 11, "name": "Brendon Aaronson", "captain": "false", "substituted": [
+                {"number": 9, "name": "Josh Sargent", "captain": "false", "minute": 83}
+            ]},
+            {"number": 19, "name": "Jordan Pefok", "captain": "false", "substituted": [
+                {"number": 20, "name": "Konrad de la Fuente", "captain": "false","minute": 83}
+            ]},
+            {"number": 10, "name": "Christian Pulisic", "captain": "true", "substituted": []}
+        ],
+        "bench": [
+            { "number": 22, "name": "DeAndre Yedlin" },
+            { "number": 7, "name": "Cristan Roldan" },
+            { "number": 9, "name": "Josh Sargent" },
+            { "number": 20, "name": "Konrad de la Fuente" },
+            { "number": 8, "name": "Sean Johnson" },
+            { "number": 18, "name": "Ethan Horvath" },
+            { "number": 3, "name": "Walker Zimmerman" },
+            { "number": 13, "name": "Tim Ream" },
+            { "number": 14, "name": "Ricardo Pepi" },
+            { "number": 15, "name": "Mark McKenzie" },
+            { "number": 16, "name": "James Sands" },
+            { "number": 21, "name": "George Bello" }
+        ],
+        "goals": [
+            { "team": "Home", "minute": 55, "scorer": "Brendon Aaronson", "assister": "Antonee Robinson"},
+            { "team": "Away", "minute": 62, "scorer": "Cyle Larin", "assister": "Alphonso Davies"}
+        ]
+    },
+    {
+        "kickoffTime": "2021-09-08 10:30",
+        "city": "San Pedro Sula, Honduras",
+        "stadium": "Estadio Olímpico Metropolitano",
+        "locationLngLat": [-88.006931, 15.470094],
+        "opponent": "Honduras",
+        "homeAway": "Away",
+        "notes": [
+            "Christian Pulisic came off with an ankle injury."
+        ],
+        "lineup": [
+            {"number": 1, "name": "Matt Turner", "captain": "false", "substituted": []},
+            {"number": 12, "name": "Miles Robinson", "captain": "false", "substituted": []},
+            {"number": 6, "name": "John Brooks", "captain": "false", "substituted": [
+                { "number": 17, "name": "Sebastian Lletget", "captain": false, "minute": 46}
+            ]},
+            {"number": 15, "name": "Mark McKenzie", "captain": "false", "substituted": []},
+            {"number": 4, "name": "Tyler Adams", "captain": "false", "substituted": []},
+            {"number": 16, "name": "James Sands", "captain": "false", "substituted": [
+                { "number": 2, "name": "DeAndre Yedlin", "captain": "false", "minute": 73}
+            ]},
+            {"number": 23, "name": "Kellyn Acosta", "captain": "false", "substituted": []},
+            {"number": 21, "name": "George Bello", "captain": "false", "substituted": [
+                { "number": 5, "name": "Antonee Robinson", "captain": false, "minute": 46}
+            ]},
+            {"number": 9, "name": "Josh Sargent", "captain": "false", "substituted": [
+                { "number": 11, "name": "Brendon Aaronson", "captain": false, "minute": 46}
+            ]},
+            {"number": 14, "name": "Ricardo Pepi", "captain": "false", "substituted": []},
+            {"number": 10, "name": "Christian Pulisic", "captain": "true", "substituted": [
+                { "number": 7, "name": "Cristan Roldan", "captain": "false", "minute": 62 }
+            ]}
+        ],
+        "bench": [
+            { "number": 17, "name": "Sebastian Lletget"},
+            { "number": 2, "name": "DeAndre Yedlin"},
+            { "number": 5, "name": "Antonee Robinson"},
+            { "number": 11, "name": "Brendon Aaronson"},
+            { "number": 7, "name": "Cristan Roldan"},
+            { "number": 8, "name": "Sean Johnson" },
+            { "number": 18, "name": "Ethan Horvath" },
+            { "number": 3, "name": "Walker Zimmerman" },
+            { "number": 13, "name": "Tim Ream" },
+            { "number": 8, "name": "Jackson Yueill" },
+            { "number": 19, "name": "Jordan Pefok" },
+            { "number": 20, "name": "Konrad de la Fuente" }
+
+        ],
+        "goals": [
+            { "team": "Home", "minute": 27, "scorer": "Brayan Moya", "assister": "Diego Rodríguez"},
+            { "team": "Away", "minute": 48, "scorer": "Antonee Robinson", "assister": "Ricardo Pepi"},
+            { "team": "Away", "minute": 75, "scorer": "Ricardo Pepi", "assister": "DeAndre Yedlin"},
+            { "team": "Away", "minute": 86, "scorer": "Brendon Aaronson", "assister": "Ricardo Pepi"},
+            { "team": "Away", "minute": 93, "scorer": "Sebastian Lletget", "assister": ""}
+        ]
+    },
+    {
+        "kickoffTime": "2021-10-07 7:45",
+        "city": "Austin, Texas, United States",
+        "stadium": "Q2 Stadium",
+        "locationLngLat": [-97.719837, 30.388206],
+        "opponent": "Jamaica",
+        "homeAway": "Home",
+        "notes": [],
+        "lineup": [],
+        "bench": [],
+        "goals": []
+    },
+    {
+        "kickoffTime": "2021-10-10 06:00",
+        "city": "Panama City, Panama",
+        "stadium": "Estadio Rommel Fernandez",
+        "locationLngLat": [-88.006931, 15.470094],
+        "opponent": "Panama",
+        "homeAway": "Away",
+        "notes": [],
+        "lineup": [],
+        "bench": [],
+        "goals": []
+    },
+    {
+        "kickoffTime": "2021-10-13 07:00",
+        "city": "Columbus, Ohio, United States",
+        "stadium": "Lower.com Field",
+        "locationLngLat": [-83.017089, 39.968461],
+        "opponent": "Costa Rica",
+        "homeAway": "Home",
+        "notes": [],
+        "lineup": [],
+        "bench": [],
+        "goals": []
+    }
+]

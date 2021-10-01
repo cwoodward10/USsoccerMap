@@ -1,0 +1,226 @@
+[
+    { 
+        "name": "Matt Turner", 
+        "age": "27",
+        "birthday": "1994/6/24",
+        "hometown": "Park Ridge, New Jersey, United States",
+        "position": ["Goalkeeper"],
+        "positionGroup": ["Goalkeeper"]
+    },
+    { 
+        "name": "Zack Steffen", 
+        "age": "26",
+        "birthday": "1995/4/2",
+        "hometown": "Coatesville, Pennsylvania, United States",
+        "position": ["Goalkeeper"],
+        "positionGroup": ["Goalkeeper"]
+    },
+    { 
+        "name": "Ethan Horvath", 
+        "age": "26",
+        "birthday": "1995/6/9",
+        "hometown": "Highlands Ranch, Colorado, United States",
+        "position": ["Goalkeeper"],
+        "positionGroup": ["Goalkeeper"]
+    },
+    { 
+        "name": "Sean Johnson", 
+        "age": "32",
+        "birthday": "1989/5/31",
+        "hometown": "Lilburn, Georgia, United States",
+        "position": ["Goalkeeper"],
+        "positionGroup": ["Goalkeeper"]
+    },
+    { 
+        "name": "George Bello", 
+        "age": "19",
+        "birthday": "2002/1/22",
+        "hometown": "Abuja, Nigeria",
+        "position": ["Left-back"],
+        "positionGroup": ["Defender"]
+    },
+    { 
+        "name": "John Brooks", 
+        "age": "28",
+        "birthday": "1993/1/28",
+        "hometown": "Berlin, Germany",
+        "position": ["Centerback"],
+        "positionGroup": ["Defender"]
+    },
+    { 
+        "name": "Sergino Dest",
+        "age": "20",
+        "birthday": "2000/11/3",
+        "hometown": "Almere, Netherlands",
+        "position": ["Right-back", "Left-back"],
+        "positionGroup": ["Defender"]
+    },
+    { 
+        "name": "Mark McKenzie",
+        "age": "22",
+        "birthday": "1999/2/25",
+        "hometown": "New York City, New York, United States",
+        "position": ["Centerback"],
+        "positionGroup": ["Defender"]
+    },
+    { 
+        "name": "Tim Ream",
+        "age": "33",
+        "birthday": "1987/10/5",
+        "hometown": "St. Louis, Missouri, U.S",
+        "position": ["Centerback"],
+        "positionGroup": ["Defender"]
+    },
+    { 
+        "name": "Antonee Robinson",
+        "age": "24",
+        "birthday": "1997/8/8",
+        "hometown": "Milton Keynes, England",
+        "position": ["Left-back"],
+        "positionGroup": ["Defender"]
+    },
+    { 
+        "name": "Miles Robinson",
+        "age": "24",
+        "birthday": "1997/3/14",
+        "hometown": "Arlington, Massachusetts, United States",
+        "position": ["Centerback"],
+        "positionGroup": ["Defender"]
+    },
+    { 
+        "name": "James Sands",
+        "age": "21",
+        "birthday": "2000/7/6",
+        "hometown": "Rye, New York, United States",
+        "position": ["Centerback", "Defensive Midfielder"],
+        "positionGroup": ["Defender", "Midfielder"]
+    },
+    { 
+        "name": "DeAndre Yedlin",
+        "age": "28",
+        "birthday": "1993/7/9",
+        "hometown": "Seattle, Washington, United States",
+        "position": ["Right-back"],
+        "positionGroup": ["Defender"]
+    },
+    { 
+        "name": "Walker Zimmerman",
+        "age": "28",
+        "birthday": "1993/5/19",
+        "hometown": "Lawrenceville, Georgia, United States",
+        "position": ["Centerback"],
+        "positionGroup": ["Defender"]
+    },
+    { 
+        "name": "Kellyn Acosta",
+        "age": "26",
+        "birthday": "1995/7/24",
+        "hometown": "Plano, Texas, United States",
+        "position": ["Center Midfielder", "Defensive Midfielder"],
+        "positionGroup": ["Midfielder"]
+    },
+    { 
+        "name": "Tyler Adams",
+        "age": "22",
+        "birthday": "1999/2/14",
+        "hometown": "Wappinger, New York, United States",
+        "position": ["Center Midfielder", "Defensive Midfielder"],
+        "positionGroup": ["Midfielder"]
+    },
+    { 
+        "name": "Sebastian Lletget",
+        "age": "29",
+        "birthday": "1992/9/3",
+        "hometown": "San Francisco, California, United States",
+        "position": ["Center Midfielder"],
+        "positionGroup": ["Midfielder"]
+    },
+    { 
+        "name": "Weston McKennie",
+        "age": "23",
+        "birthday": "1998/8/28",
+        "hometown": "Fort Lewis, Washington, United States",
+        "position": ["Center Midfielder"],
+        "positionGroup": ["Midfielder"]
+    },
+    { 
+        "name": "Cristian Roldan",
+        "age": "26",
+        "birthday": "1995/6/3",
+        "hometown": "Artesia, California, United States",
+        "position": ["Center Midfielder", "Winger", "Half-space Merchant"],
+        "positionGroup": ["Midfielder", "Forward"]
+    },
+    { 
+        "name": "Jackson Yueill",
+        "age": "24",
+        "birthday": "1997/3/19",
+        "hometown": "Bloomington, Minnesota, United States",
+        "position": ["Defensive Midfielder"],
+        "positionGroup": ["Midfielder"]
+    },
+    { 
+        "name": "Brenden Aaronson",
+        "age": "20",
+        "birthday": "2000/10/22",
+        "hometown": "Medford, New Jersey, United States",
+        "position": ["Winger", "Half-space Merchant", "Attacking Midfielder"],
+        "positionGroup": ["Forward", "Midfielder"]
+    },
+    { 
+        "name": "Konrad de la Fuente",
+        "age": "20",
+        "birthday": "2001/7/16",
+        "hometown": "Miami, Florida, United States",
+        "position": ["Winger"],
+        "positionGroup": ["Forward"]
+    },
+    { 
+        "name": "Jordan Pefok",
+        "age": "25",
+        "birthday": "1996/4/26",
+        "hometown": "Washington, D.C., United States",
+        "position": ["Striker"],
+        "positionGroup": ["Forward"]
+    },
+    { 
+        "name": "Ricardo Pepi",
+        "age": "18",
+        "birthday": "2003/1/9",
+        "hometown": "El Paso, Texas, United States",
+        "position": ["Striker"],
+        "positionGroup": ["Forward"]
+    },
+    { 
+        "name": "Christian Pulisic",
+        "age": "23",
+        "birthday": "1998/9/18",
+        "hometown": "Hershey, Pennsylvania, United States",
+        "position": ["Winger", "Half-space Merchant"],
+        "positionGroup": ["Forward"]
+    },
+    { 
+        "name": "Gio Reyna",
+        "age": "18",
+        "birthday": "2002/11/13",
+        "hometown": "Sunderland, England",
+        "position": ["Half-space Merchant", "Attacking Midfielder", "Center Midfielder"],
+        "positionGroup": ["Forward", "Midfielder"]
+    },
+    { 
+        "name": "Josh Sarget",
+        "age": "21",
+        "birthday": "2000/2/20",
+        "hometown": "O'Fallon, Missouri, United States",
+        "position": ["Striker", "Target Winger"],
+        "positionGroup": ["Forward"]
+    },
+    { 
+        "name": "Tim Weah",
+        "age": "21",
+        "birthday": "2000/2/22",
+        "hometown": "Brooklyn, New York, United States",
+        "position": ["Striker", "Winger", "Attacking Midfielder", "Wide Midfielder"],
+        "positionGroup": ["Forward", "Midfielder"]
+    }
+]
