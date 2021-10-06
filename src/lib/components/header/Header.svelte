@@ -1,11 +1,10 @@
 <script lang="ts">
 	import { page } from '$app/stores';
-	import logo from './svelte-logo.svg';
 </script>
 
 <header class="fixed top-0 flex justify-between w-full z-10">
 	<div>
-		<img src={logo} alt="SvelteKit"/>
+		<h1 class="text-left font-medium text-xl text-white">USMNT Map</h1>	
 	</div>
 
 	<nav>

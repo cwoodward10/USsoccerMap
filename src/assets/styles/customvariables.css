@@ -1,0 +1,11 @@
+/* CSS stylesheet for any custom variables that are needed */
+:root {
+    --sidebar-width: 80px;
+    --color-black: #323232;
+    --color-semiblack: #72777B;
+    --color-gray-dark: #BBBFC4;
+    --color-gray-light: #E3E5E8;
+    --color-gray-extra-light: #F3F3F3;
+    --color-red-error: rgb(239, 68, 68);
+    --color-green-go: rgb(34, 197, 94);
+  }

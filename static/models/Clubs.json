@@ -238,5 +238,13 @@
         "city": "Palma de Mallorca, Balearic Islands, Spain",
         "stadium": "Visit Mallorca Stadium",
         "lnglat": [2.63, 39.59]
+    },
+    {
+        "name": "1899 Hoffenheim",
+        "league": "German Bundesliga",
+        "tier": 1,
+        "city": "Sinsheim, Germany",
+        "stadium": "Rhein-Neckar-Arena",
+        "lnglat": [8.69079, 49.40768]
     }
 ]

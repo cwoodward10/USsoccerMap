@@ -222,5 +222,29 @@
         "hometown": "Brooklyn, New York, United States",
         "position": ["Striker", "Winger", "Attacking Midfielder", "Wide Midfielder"],
         "positionGroup": ["Forward", "Midfielder"]
+    },
+    {
+        "name": "Chris Richards"
+    },
+    {
+        "name": "Shaq Moore"
+    },
+    {
+        "name": "Gianluca Busio"
+    },
+    {
+        "name": "Luca de la Torre"
+    },
+    {
+        "name": "Yunus Musah"
+    },
+    {
+        "name": "Paul Arriola"
+    },
+    {
+        "name": "Mattew Hoppe"
+    },
+    {
+        "name": "Gyasi Zardes"
     }
 ]

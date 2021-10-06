@@ -3,7 +3,7 @@
 </script>
 
 <script lang="ts">
-	import Map from '$lib/mapping/map/Map.svelte';
+import MapContainer from '$lib/mapping/MapContainer.svelte';
 </script>
 
 <svelte:head>
@@ -11,5 +11,5 @@
 </svelte:head>
 
 <section class="w-full h-full">
-	<Map/>
+	<MapContainer/>
 </section>

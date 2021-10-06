@@ -75,6 +75,8 @@
             { "name": "John Brooks", "club": "VfL Wolfsburg", "caps": 45},
             { "name": "Sergino Dest", "club": "Barcelona", "caps": 13},
             { "name": "Mark McKenzie", "club": "KRC Genk", "caps": 7},
+            { "name": "Chris Richards", "club": "1899 Hoffenheim", "caps": 3},
+            { "name": "Walker Zimmerman", "club": "Nashville SC", "caps": 11},
             { "name": "Shaq Moore", "club": "CD Tenerife", "caps": 11},
             { "name": "Tim Ream", "club": "Fulham", "caps": 46},
             { "name": "Antonee Robinson", "club": "Fulham", "caps": 15},
@@ -86,7 +88,7 @@
             { "name": "Luca de la Torre", "club": "Heracles Almelo", "caps": 3},
             { "name": "Sebastian Lletget", "club": "LA Galaxy", "caps": 32},
             { "name": "Weston McKennie", "club": "Juventus", "caps": 25},
-            { "name": "Unus Musah", "club": "Valencia", "caps": 6},
+            { "name": "Yunus Musah", "club": "Valencia", "caps": 6},
             { "name": "Cristian Roldan", "club": "Seattle Sounders", "caps": 28},
             { "name": "Brenden Aaronson", "club": "Red Bull Salzburg", "caps": 10},
             { "name": "Ricardo Pepi", "club": "FC Dallas", "caps": 1},
@@ -97,7 +99,8 @@
         ],
         "notes": [
             "Gio Reyna and Christian Pulisic were left off due to injuries sustained during the last camp (September window).",
-            "England based players are subject to quarantine upon return if they play in 'Red Listed' countries due to England's COVID laws."
+            "John Brooks withdrew before camp started due to a back injury.",
+            "Tim Ream was replaced by Walker Zimmerman prior to camp. "
         ]
     }
 ]
